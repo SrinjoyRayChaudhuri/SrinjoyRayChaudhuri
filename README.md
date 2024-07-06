@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinjoy Ray Chaudhuri</h1>
-<h3 align="center">🌱 I'm passionate about coding and always eager to learn and explore new technologies.</h3>
+<h3 align="center">🌱 I'm passionate about coding and always eager to learn and explore new technologies.Currently working on Python to grasp Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinjoyraychaudhuri&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoyraychaudhuri" /> </p>
 
